@@ -1,16 +1,4 @@
-import "../assets/styles/globals.css";
-
-
-// import "../assets/styles/bootstrap-datepicker.css";
-// import "../assets/styles/bootstrap.css";
-// import "../assets/styles/bootstrap.min.css";
-// import "../assets/styles/font-awesome.css";
-// import "../assets/styles/font.css";
-// import "../assets/styles/owl.transitions.css";
-// import "../assets/styles/style.css";
-// import "../assets/styles/style.less";
-
-
+import "./globals.css";
 import Header from "../components/Header";
 
 export const metadata = {
@@ -22,7 +10,7 @@ export const metadata = {
 const MainLayout = ({ children }) => {
     return ( 
         <html lang="en">
-        <body className="container">
+        <body>
             <main>
             <div id="wrapper">
                 <Header />
