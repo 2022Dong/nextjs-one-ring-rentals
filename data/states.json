@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Sydney",
+      "location": "New South Wales",
+      "image": "http://placehold.it/760x670"
+    },
+    {
+      "name": "Melbourne",
+      "location": "Victoria",
+      "image": "http://placehold.it/760x670"
+    },
+    {
+      "name": "Brisbane",
+      "location": "Queensland",
+      "image": "http://placehold.it/760x670"
+    },
+    {
+      "name": "Perth",
+      "location": "Western Australia",
+      "image": "http://placehold.it/760x670"
+    },
+    {
+      "name": "Adelaide",
+      "location": "South Australia",
+      "image": "http://placehold.it/760x670"
+    },
+    {
+      "name": "Hobart",
+      "location": "Tasmania",
+      "image": "http://placehold.it/760x670"
+    }
+  ]
+  

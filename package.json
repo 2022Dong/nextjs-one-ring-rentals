@@ -13,7 +13,11 @@
   "description": "",
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "font-awesome": "^4.7.0",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
     "next": "latest",
+    "next-plugin-less": "^1.0.2",
     "react": "latest",
     "react-bootstrap": "^2.10.5",
     "react-dom": "latest"

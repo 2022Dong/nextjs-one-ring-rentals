@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Luxury Apartment with great views",
+      "location": "Upper East Side, New York",
+      "image": "http://placehold.it/760x670",
+      "price": "$95000",
+      "perNight": "per night",
+      "bedrooms": 4,
+      "bathrooms": 3
+    },
+    {
+      "title": "Stunning Villa with 5 bedrooms",
+      "location": "Miami Beach, Florida",
+      "image": "http://placehold.it/760x670",
+      "price": "$1,300",
+      "perNight": "per night",
+      "bedrooms": 5,
+      "bathrooms": 2
+    },
+    {
+      "title": "Recent construction with 3 bedrooms",
+      "location": "Park Slope, New York",
+      "image": "http://placehold.it/760x670",
+      "price": "$560",
+      "perNight": "per night",
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "title": "Modern construction with parking space",
+      "location": "Midtown, New York",
+      "image": "http://placehold.it/760x670",
+      "price": "$85",
+      "perNight": "per night",
+      "bedrooms": 1,
+      "bathrooms": 2
+    },
+    {
+      "title": "Single Family Townhouse",
+      "location": "Cobble Hill, New York",
+      "image": "http://placehold.it/760x670",
+      "price": "$840",
+      "perNight": "per night",
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    {
+      "title": "3 bedroom villa with garage for rent",
+      "location": "Bal Harbour, Florida",
+      "image": "http://placehold.it/760x670",
+      "price": "$150",
+      "perNight": "per night",
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "title": "123 Single Family Townhouse",
+      "location": "Cobble Hill, New York",
+      "image": "http://placehold.it/760x670",
+      "price": "$840",
+      "perNight": "per night",
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    {
+      "title": "123 3 bedroom villa with garage for rent",
+      "location": "Bal Harbour, Florida",
+      "image": "http://placehold.it/760x670",
+      "price": "$150",
+      "perNight": "per night",
+      "bedrooms": 3,
+      "bathrooms": 2
+    }
+  ]
