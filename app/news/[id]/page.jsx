@@ -1,20 +1,20 @@
 "use client";
 import { use } from 'react';
-import articlesData from '../../../data/articles.json';
+import newsData from '../../../data/articles.json';
 import SectionTitle from "../../../components/SectionTitle";
 
-const ArticlePage = ({ params }) => {
+const NewsPage = ({ params }) => {
 
   const { id } = use(params);
 
-  // Fetch the article based on the id
-  const article = articlesData.find((article) => article.id === parseInt(id));
+  // Fetch the news based on the id
+  const news = newsData.find((news) => news.id === parseInt(id));
 
-  const { title, description, image, date, comments, tags } = article;
+  const { title, description, image, date, comments, tags } = news;
 
   return (
     <div className="container">
-      <SectionTitle title="Single Article" />
+      <SectionTitle title="Single News" />
       <h3>Title: {title}</h3>
       <p>{description}</p>
       <img src={image} alt={title} />
@@ -25,4 +25,4 @@ const ArticlePage = ({ params }) => {
   );
 };
 
-export default ArticlePage;
+export default NewsPage;

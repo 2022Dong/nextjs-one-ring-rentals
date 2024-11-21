@@ -15,7 +15,7 @@ const NewsPage = () => {
                 {newsData.map((news) => (
                   <div className="item col-md-4" key={news.id}>
                     <div className="image">
-                      <Link href='/'>
+                      <Link href={`/news/${news.id}`}>
                         <span className="btn btn-default">
                           <i className="fa fa-file-o"></i> Read More
                         </span>

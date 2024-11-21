@@ -14,7 +14,7 @@ const RegionsPage = () => {
               {statesData.map((state, index) => (
                 <div className="item col-md-4" key={index}>
                   <div className="image">
-                    <Link href='/'>
+                    <Link href={`/state/${state.id}`}>
                       <h3>{ state.name }</h3>
                       <span className="location">{ state.location }</span>
                     </Link>
