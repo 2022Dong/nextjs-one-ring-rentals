@@ -76,7 +76,7 @@ const Header = () => {
             </div>
             {/* <!-- END SEARCH --> */}
             {/* <!-- BEGIN MAIN MENU --> */}
-            <nav className="navbar">
+            <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <button id="nav-mobile-btn">
                 <i className="fa fa-bars"></i>
               </button>
