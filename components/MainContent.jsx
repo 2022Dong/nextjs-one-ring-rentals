@@ -24,7 +24,7 @@ const MainContent = () => {
         {propertiesData.slice(0, 6).map((property, index) => (
           <div className="item col-md-4" key={index}>
             <div className="image">
-              <Link href='property'>
+              <Link href={`/properties/${property.id}`}>
                 <h3>{property.title}</h3>
                 <span className="location">{property.location}</span>
               </Link>

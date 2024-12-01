@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "title": "Luxury Apartment with great views",
       "location": "Upper East Side, New York",
       "image": "http://placehold.it/760x670",
@@ -9,6 +10,7 @@
       "bathrooms": 3
     },
     {
+      "id": 2,
       "title": "Stunning Villa with 5 bedrooms",
       "location": "Miami Beach, Florida",
       "image": "http://placehold.it/760x670",
@@ -18,6 +20,7 @@
       "bathrooms": 2
     },
     {
+      "id": 3,
       "title": "Recent construction with 3 bedrooms",
       "location": "Park Slope, New York",
       "image": "http://placehold.it/760x670",
@@ -27,6 +30,7 @@
       "bathrooms": 2
     },
     {
+      "id": 4,
       "title": "Modern construction with parking space",
       "location": "Midtown, New York",
       "image": "http://placehold.it/760x670",
@@ -36,6 +40,7 @@
       "bathrooms": 2
     },
     {
+      "id": 5,
       "title": "Single Family Townhouse",
       "location": "Cobble Hill, New York",
       "image": "http://placehold.it/760x670",
@@ -45,6 +50,7 @@
       "bathrooms": 2
     },
     {
+      "id": 6,
       "title": "3 bedroom villa with garage for rent",
       "location": "Bal Harbour, Florida",
       "image": "http://placehold.it/760x670",
@@ -54,6 +60,7 @@
       "bathrooms": 2
     },
     {
+      "id": 7,
       "title": "123 Single Family Townhouse",
       "location": "Cobble Hill, New York",
       "image": "http://placehold.it/760x670",
@@ -63,6 +70,7 @@
       "bathrooms": 2
     },
     {
+      "id": 8,
       "title": "123 3 bedroom villa with garage for rent",
       "location": "Bal Harbour, Florida",
       "image": "http://placehold.it/760x670",

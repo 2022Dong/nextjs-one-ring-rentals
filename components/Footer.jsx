@@ -13,6 +13,7 @@ const Footer = () => {
             <Image 
           src="/assets/images/logo.png"
           alt="Logo" 
+          priority
           width={200}
           height={100}
         />
